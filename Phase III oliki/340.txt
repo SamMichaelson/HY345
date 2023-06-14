@@ -1,0 +1,8 @@
+function f(x,y){
+    z=x*y;
+    if(z==10){
+        z=1;
+    }
+    return z;
+}
+i=f(j,k);
